@@ -1,2 +1,2 @@
-# git_gb_java_weather
+# project Weather
 Java GeekBrains for Testers project Weather
